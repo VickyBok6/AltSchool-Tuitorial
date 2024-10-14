@@ -4,6 +4,7 @@ console.log(' The compound word is ' + `${fruitSalad}`);
 
 // 2. Ask: Ask the user to fill a prompt box with their name which returns Hello [userName]
 let fullName = prompt('What is your full name?');
+alert(" Hello, " + `${fullName}`)
 console.log(" Hello, " + `${fullName}`);
 
 // 3. Write a ifelse statement that check if 30 is greater 10, if yes, log true, if not, log false.
